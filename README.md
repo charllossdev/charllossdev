@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @charllossdev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-charllossdev/charllossdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <samp>
+    <a href="https://antfu.me">me</a> .
+    <a href="https://antfu.me/posts">blog</a> .
+    <a href="https://antfu.me/projects">projects</a> .
+    <a href="https://100.antfu.me">compform</a> .
+    <a href="https://instagram.com/charlloss">instagram</a> .
+  </samp>
+</p>
